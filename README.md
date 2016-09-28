@@ -1,3 +1,19 @@
+# Usage
+
+1. docker pull renyufu/primitive
+
+2. git clone https://github.com/renyufu/primitive.git
+
+3. cd primitive
+
+4. chmod +x pp
+
+5. mkdir input
+
+6. mkdir output
+
+7. ./pp -i /input/input.png -o /output/output.png
+
 # Primitive Pictures
 
 Reproducing images with geometric primitives.
